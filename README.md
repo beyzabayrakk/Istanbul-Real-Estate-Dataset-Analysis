@@ -5,3 +5,4 @@ consumer demand, and investment opportunities by using statistical methods. In t
 we explore and examine İstanbul real estate dataset in order to find trends, connections, and
 important variables that affect housing costs.We choose the dataset to collaborate on
 kaggle.
+Kaggle Dataset: https://www.kaggle.com/datasets/velatdicleli/ev-fiyatlar-2023 
